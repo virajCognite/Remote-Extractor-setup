@@ -71,6 +71,6 @@ queries:
     destination:
       type: raw
       database: "db10389"
-      table: "table4"
+      table: "GitactionsTable1"
       
     primary-key: "{EmployeeID}"
