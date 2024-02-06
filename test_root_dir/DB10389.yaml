@@ -13,20 +13,6 @@ logger:
 
 # Information about CDF project
 # cognite:
-#   project: "cognite-support-qa"
-#   host: https://api.cognitedata.com
-#   idp-authentication:
-#     client-id: "bc24f05d-1190-491a-8f1b-459ea373b7cd"
-#     secret: "m_U8Q~56JrwodYMY2UOHz5DAEj4ybar-FYxnJasa"
-#     scopes: [https://api.cognitedata.com/.default]
-#     token-url: https://login.microsoftonline.com/fdb7a10f-8ec9-4838-960c-1eb2edba13d6/oauth2/v2.0/token
-#     #tenant: fdb7a10f-8ec9-4838-960c-1eb2edba13d6
-#   data-set: 
-#     id: 8682366636794627
-#   extraction-pipeline:
-#     external-id: DB10389
-
-# cognite:
 #   host: ${BASE_URL}
 #   project: ${PROJECT}
 #   idp-authentication:
